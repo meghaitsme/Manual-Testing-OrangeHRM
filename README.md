@@ -1,4 +1,10 @@
 # Manual-Testing-OrangeHRM
+
+Jira Tool Link :- https://meghakkrish.atlassian.net/jira/software/projects/ORANGE/summary
+https://meghakkrish.atlassian.net/jira/software/projects/ORANGE/issues?jql=project%20%3D%20%22ORANGE%22%20ORDER%20BY%20created%20DESC
+
+Google sheet :- https://docs.google.com/spreadsheets/d/1Cq1RUgXh8bREFpVyeewC4CQUrKTFRqCuaZuzXZmCTL8/edit?usp=drive_link
+
 ## 📌 Overview
 This project showcases **manual testing** of the [OrangeHRM](https://www.orangehrm.com/) system, focusing on structured testing methodologies, defect reporting, and test documentation. The repository contains test plans, test cases, and bug reports to demonstrate proficiency in manual testing.
 
