@@ -3,6 +3,8 @@
 Jira Tool Link :- https://meghakkrish.atlassian.net/jira/software/projects/ORANGE/summary
 https://meghakkrish.atlassian.net/jira/software/projects/ORANGE/issues?jql=project%20%3D%20%22ORANGE%22%20ORDER%20BY%20created%20DESC
 
+https://meghakkrish.atlassian.net/issues/?jql=ORDER+BY+created+DESC&atlOrigin=eyJpIjoiODIzYmMyMjNhMjBiNDViY2I4OTUyZmExYjVmMzJhMzgiLCJwIjoiaiJ9
+
 Google sheet :- https://docs.google.com/spreadsheets/d/1Cq1RUgXh8bREFpVyeewC4CQUrKTFRqCuaZuzXZmCTL8/edit?usp=drive_link
 
 ## 📌 Overview
