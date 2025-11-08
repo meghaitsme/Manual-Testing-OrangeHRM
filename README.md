@@ -1,7 +1,9 @@
 <img width="1635" height="697" alt="image" src="https://github.com/user-attachments/assets/712d6137-7e35-4729-be57-a9ee4cd98183" /># Manual-Testing-OrangeHRM
 
 Jira OrangeHRM:- https://meghakkrish.atlassian.net/jira/software/projects/ORANGE/summary
+
 https://meghakkrish.atlassian.net/jira/software/projects/ORANGE/issues?jql=project%20%3D%20%22ORANGE%22%20ORDER%20BY%20created%20DESC
+
 
 ## 📌 Overview
 This project showcases **manual testing** of the [OrangeHRM](https://www.orangehrm.com/) system, focusing on structured testing methodologies, defect reporting, and test documentation. The repository contains test plans, test cases, and bug reports to demonstrate proficiency in manual testing.
