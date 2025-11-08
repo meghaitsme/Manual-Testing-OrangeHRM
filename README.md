@@ -24,16 +24,20 @@ This project showcases **manual testing** of the [OrangeHRM](https://www.orangeh
   - Regression Testing  
 - **Defect Tracking**: Managed via **Jira** and documented in bug reports.
 
-- <img width="214" height="489" alt="image" src="https://github.com/user-attachments/assets/8fc504ad-4c88-4567-879d-86904d255f7f" />
+<img width="1198" height="405" alt="image" src="https://github.com/user-attachments/assets/d30737d0-8b03-4e68-8287-7ec4bb349522" />
 
-  <img width="1309" height="472" alt="image" src="https://github.com/user-attachments/assets/26c1debc-c288-4936-93ce-8252136dd786" />
-  <img width="540" height="291" alt="image" src="https://github.com/user-attachments/assets/fb506f25-3f48-4896-9fdb-662ddd4dfcc2" />
-  <img width="1204" height="469" alt="image" src="https://github.com/user-attachments/assets/0dc81505-98a8-4c03-97c2-af6942343a75" />
-  <img width="744" height="363" alt="image" src="https://github.com/user-attachments/assets/612a8cb9-616e-4e06-97c9-15ec6daa72ac" />
-<img width="1046" height="426" alt="image" src="https://github.com/user-attachments/assets/59d0fa54-b916-4983-a9c9-3cb201375129" />
-<img width="686" height="425" alt="image" src="https://github.com/user-attachments/assets/6fa6187b-b1b0-4a40-9739-fe4cb1ec9da9" />
-<img width="379" height="101" alt="image" src="https://github.com/user-attachments/assets/34332124-0105-49b5-a25b-c208d0a73809" />
-<img width="1103" height="452" alt="image" src="https://github.com/user-attachments/assets/e85cc84d-2930-432f-8b36-9a55610ac9cf" />
+
+<img width="952" height="562" alt="image" src="https://github.com/user-attachments/assets/fe38faa9-e92e-4643-a93c-1dbb0ecb49c8" />
+
+<img width="868" height="490" alt="image" src="https://github.com/user-attachments/assets/995f6b11-93cc-4459-9de2-c6739235e54e" />
+
+<img width="599" height="462" alt="image" src="https://github.com/user-attachments/assets/1251f3cf-2089-4e87-b966-1c2e5acb06fe" />
+
+<img width="273" height="474" alt="image" src="https://github.com/user-attachments/assets/62d5349d-f936-42c5-b372-0f6c862e0a04" />
+
+
+
+
 
 
 
