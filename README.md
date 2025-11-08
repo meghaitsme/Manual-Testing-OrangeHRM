@@ -29,7 +29,9 @@ This project showcases **manual testing** of the [OrangeHRM](https://www.orangeh
 
 <img width="952" height="562" alt="image" src="https://github.com/user-attachments/assets/fe38faa9-e92e-4643-a93c-1dbb0ecb49c8" />
 
-<img width="868" height="490" alt="image" src="https://github.com/user-attachments/assets/995f6b11-93cc-4459-9de2-c6739235e54e" />
+
+<img width="849" height="443" alt="image" src="https://github.com/user-attachments/assets/6aec1372-dcc8-4972-9ecf-623862b84ef5" />
+
 
 <img width="599" height="462" alt="image" src="https://github.com/user-attachments/assets/1251f3cf-2089-4e87-b966-1c2e5acb06fe" />
 
