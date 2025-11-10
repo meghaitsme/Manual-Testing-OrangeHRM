@@ -6,23 +6,21 @@ https://meghakkrish.atlassian.net/jira/software/projects/ORANGE/issues?jql=proje
 
 <img width="1635" height="697" alt="image" src="https://github.com/user-attachments/assets/712d6137-7e35-4729-be57-a9ee4cd98183" /># Manual-Testing-OrangeHRM
  Overview
-This project showcases **manual testing** of the [OrangeHRM](https://www.orangehrm.com/) system, focusing on structured testing methodologies, defect reporting, and test documentation. The repository contains test plans, test cases, and bug reports to demonstrate proficiency in manual testing.
+This project showcases manual testing of the [OrangeHRM](https://www.orangehrm.com/) system, focusing on structured testing methodologies, defect reporting, and test documentation. The repository contains test plans, test cases, and bug reports to demonstrate proficiency in manual testing.
 <img width="708" height="385" alt="overall status" src="https://github.com/user-attachments/assets/5c44babd-62b8-406b-82a2-62b58e6073de" />
 
 
  Repository Contents
-- **Test Plans (`testplans.pdf`)** – Defines the testing strategy, scope, objectives, and approach.
-- **Test Cases (`orangehrm-testcases.xlsx`)** – A detailed set of test cases covering various functionalities of the OrangeHRM **Admin Module**.
-- **Bug Reports (`bugreport.pdf`)** – A documented list of identified defects, including severity, priority, and reproduction steps.
-- **Jira Screenshot (`jira.png`)** – An example of how defects were tracked using **Jira**.
+- Test Plans – Defines the testing strategy, scope, objectives, and approach.
+- Test Cases – A detailed set of test cases covering various functionalities of the OrangeHRM Admin Module.
+- Bug Reports – A documented list of identified defects, including severity, priority, and reproduction steps.
 
  Testing Scope
-- **Application Tested**: OrangeHRM (Admin Module)
-- **Testing Types**:  
+- Application Tested: OrangeHRM (Admin Module)
+- Testing Types:  
   - Functional Testing  
   - UI Testing  
   - Regression Testing  
-- **Defect Tracking**: Managed via **Jira** and documented in bug reports.
 
 <img width="1198" height="405" alt="image" src="https://github.com/user-attachments/assets/d30737d0-8b03-4e68-8287-7ec4bb349522" />
 
@@ -47,13 +45,10 @@ This project showcases **manual testing** of the [OrangeHRM](https://www.orangeh
 
 
 
-
-
-
-## Tools & Documentation
-- **Test Documentation**: Excel, PDF reports  
-- **Defect Tracking**: Jira (with reports attached)  
-- **Test Management**: TestRail (with visual reference)  
+Tools & Documentation
+- Test Documentation: Excel, PDF reports  
+- Defect Tracking: Jira (with reports attached)  
+- Test Management: Jira (with visual reference)  
 
 
 
