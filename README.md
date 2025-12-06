@@ -24,11 +24,6 @@ This project showcases manual testing of the [OrangeHRM](https://www.orangehrm.c
   - Regression Testing  
 
 <img width="1198" height="405" alt="image" src="https://github.com/user-attachments/assets/d30737d0-8b03-4e68-8287-7ec4bb349522" />
-
-
-<img width="952" height="562" alt="image" src="https://github.com/user-attachments/assets/fe38faa9-e92e-4643-a93c-1dbb0ecb49c8" />
-
-
 <img width="1645" height="723" alt="image" src="https://github.com/user-attachments/assets/8869a2a8-5ed5-4143-a3bf-6da08f291dac" />
 <img width="1610" height="551" alt="image" src="https://github.com/user-attachments/assets/906ebfab-d9ff-41ec-97ea-3bf4f26df923" />
 <img width="1614" height="542" alt="image" src="https://github.com/user-attachments/assets/25e26a7b-22b1-4af7-8463-fd0632b8c79a" />
