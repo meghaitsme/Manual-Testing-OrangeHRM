@@ -29,12 +29,13 @@ This project showcases manual testing of the [OrangeHRM](https://www.orangehrm.c
 <img width="952" height="562" alt="image" src="https://github.com/user-attachments/assets/fe38faa9-e92e-4643-a93c-1dbb0ecb49c8" />
 
 
-<img width="849" height="443" alt="image" src="https://github.com/user-attachments/assets/6aec1372-dcc8-4972-9ecf-623862b84ef5" />
+<img width="1645" height="723" alt="image" src="https://github.com/user-attachments/assets/8869a2a8-5ed5-4143-a3bf-6da08f291dac" />
+<img width="1610" height="551" alt="image" src="https://github.com/user-attachments/assets/906ebfab-d9ff-41ec-97ea-3bf4f26df923" />
+<img width="1614" height="542" alt="image" src="https://github.com/user-attachments/assets/25e26a7b-22b1-4af7-8463-fd0632b8c79a" />
+<img width="1589" height="93" alt="image" src="https://github.com/user-attachments/assets/938c851f-c5f8-4cf8-bb30-300176dcffe4" />
 
 
-<img width="599" height="462" alt="image" src="https://github.com/user-attachments/assets/1251f3cf-2089-4e87-b966-1c2e5acb06fe" />
 
-<img width="211" height="341" alt="image" src="https://github.com/user-attachments/assets/e71dfbf5-3bde-4a1b-bf48-91a5f2614b18" />
 
 
 
